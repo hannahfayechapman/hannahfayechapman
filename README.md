@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannahfayechapman
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in learning Python and R in a data science/data analytics context
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on my first projects using the tools I have learnt
